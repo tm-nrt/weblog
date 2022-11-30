@@ -1,6 +1,6 @@
 module.exports = {
   base: '/weblog/',
-  dest: 'docs/',
+  dest: 'docs',
   title: 'weblog',
   themeConfig: {
     docsDir: 'src',
