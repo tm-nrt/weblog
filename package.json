@@ -1,0 +1,15 @@
+{
+  "name": "weblog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository" : "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vuepress dev src",
+    "build":"vuepress build src",
+    "eject":"vuepress eject src"
+  },
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  }
+}
